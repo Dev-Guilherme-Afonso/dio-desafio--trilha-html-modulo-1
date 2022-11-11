@@ -1,2 +1,2 @@
 # dio-desafio--trilha-html-modulo-1
-Trilha HTML - Dio.me 
+A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas prática.
